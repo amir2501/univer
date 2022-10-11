@@ -1,0 +1,16 @@
+h1{
+    color: chocolate;
+    font-size:xx-large;
+    font-style: italic;
+    border-color: yellowgreen;
+    background-color: yellowgreen;
+    width: 100px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background: linear-gradient(212deg, rgba(168,38,38,1) 0%, rgba(135,148,24,1) 100%);
+}

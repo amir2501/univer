@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(90deg, #492d5a 0%, #515ada 100%);
+}
+h1{
+    border-color: orangered;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightpink;
+}
+p{
+    border-color: chartreuse;
+    color: rgb(255, 247, 0);
+    font-size:x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
